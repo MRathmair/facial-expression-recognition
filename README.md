@@ -7,4 +7,6 @@ I experimented with a pretty standard CNN architecture and with a VGG-type model
 
 The purpose here was to get familiar with the workflow in pytorch rather than to train a competetive model. 
 In particular, I have not invested a lot into tweaking the model. 
-Considering that the benchmark for this problem is at 70-80% accuracy, the accuracy of the second model at aroung 60% is decent.
+Obviously, there is strong overfitting in both of the models, an issue which still needs to be adressed.
+
+Considering that the benchmark for this problem is at 70-80% accuracy, the accuracy of the second model at aroung 60% is quite decent.
